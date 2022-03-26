@@ -1,2 +1,2 @@
 # WhatsApp
-Entire WhatsApp Project Clone Project
+WhatsApp Project Clone
